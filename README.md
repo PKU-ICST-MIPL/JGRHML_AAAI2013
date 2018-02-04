@@ -1,7 +1,7 @@
 # Introduction
-This is the source code of our AAAI paper "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval", Please cite the following paper if you use our code.
+This is the source code of our AAAI 2013 paper "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval", Please cite the following paper if you use our code.
 
-Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval”, 27th AAAI Conference on Artificial Intelligence (AAAI), pp. 1198-1204, Bellevue, Washington, USA, Jul.
+Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval”, 27th AAAI Conference on Artificial Intelligence (AAAI), pp. 1198-1204, Bellevue, Washington, USA, Jul. 14-18, 2013.
 
 # Usage
 Run our script to train and test:
@@ -24,9 +24,9 @@ XMedia dataset can be downloaded from [XMedia Dataset](http://www.icst.pku.edu.c
 
 For more information, please refer to our [paper](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=271)
 
-# Related work
-If you are interested in cross-media retrieval, check our paper:
+# Our Related work
+If you are interested in cross-media retrieval, you can check our recently published overview paper on IEEE TCSVT:
 
-Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.
+Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.[[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=376)
 
-Visit our [Benchmark Website](http://www.icst.pku.edu.cn/mipl/xmedia) and [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information.
+Welcome to our [Benchmark Website](http://www.icst.pku.edu.cn/mipl/xmedia) and [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
