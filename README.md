@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our AAAI 2013 paper "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval", Please cite the following paper if you use our code.
 
-Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval”, 27th AAAI Conference on Artificial Intelligence (AAAI), pp. 1198-1204, Bellevue, Washington, USA, Jul. 14-18, 2013.
+Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval”, 27th AAAI Conference on Artificial Intelligence (AAAI), pp. 1198-1204, Bellevue, Washington, USA, Jul. 14-18, 2013. [[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=271)
 
 # Usage
 Run our script to train and test:
